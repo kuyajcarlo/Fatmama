@@ -1,0 +1,6 @@
+{
+  "name": "Fatmama",
+  "description": "A pastry and dessert shop website featuring sweet treats, halo-halo, cake ordering, and customer dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
